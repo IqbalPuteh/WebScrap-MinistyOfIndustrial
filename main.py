@@ -18,8 +18,6 @@ all_data = []
 base_url = "https://kemenperin.go.id/direktori-perusahaan"
 # DKI
 base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=JWlMr9dBZoh4NcRGhLV2lw1ZzJLjyJbE3zQxksmdgRg%2C"
-# Banten
-base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=szh3Nx9NmSTOTpqeCuh7rOYNcZov8Oricx3WNJaMJkg%2C"
 # Jabar
 base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=g-g92cJf63GcZzFru_hX80HG3NA95zwE5tWTVGAI5xY%2C"
 # Jateng
@@ -30,6 +28,8 @@ base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=HJCA4sCEb2E
 base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=0bCtGgIPKU5sHVP-I3RJR_zaGkICRuxrBuLF8pn6okw%2C"
 # DIY
 base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=YaPZnRqzpP2obO5M2vJBT-05qeMzPo7KQSLLhi4zW28%2C"
+# Banten
+base_url = "https://kemenperin.go.id/direktori-perusahaan?what=&prov=szh3Nx9NmSTOTpqeCuh7rOYNcZov8Oricx3WNJaMJkg%2C"
 
 
 async def get_pagination_info(page):
